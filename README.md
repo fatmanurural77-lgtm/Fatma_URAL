@@ -3,7 +3,7 @@
 
  **Interests:** C Programming, Web, Robotics
 
-## 🔧 Tech Stack
+##  Tech Stack
 - **Languages:** C, Python, HTML (beginner)
 - **Tools:** Git, VS Code, Linux Terminal
 
